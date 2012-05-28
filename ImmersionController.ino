@@ -7,7 +7,8 @@ CT only electricity monitoring.
 Part of the openenergymonitor.org project
 Licence: GNU GPL V3
 
-Authors: Glyn Hudson, Trystan Lea
+Author: Lloyd Adams
+Based on code by Glyn Hudson, Trystan Lea
 Builds upon JeeLabs RF12 library and Arduino
 
 */
